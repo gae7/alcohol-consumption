@@ -1,4 +1,4 @@
-# alcohol_consumption
+# alcohol_consumption (dataset from Kaggle)
 
 
 The data comes from a survey conducted among math and Portuguese language students in secondary school. The aim of the analysis is to assess the existence of a relationship between students' private life and school performance.
