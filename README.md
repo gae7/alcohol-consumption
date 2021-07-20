@@ -1,3 +1,4 @@
+<img width="772" alt="Schermata 2021-07-20 alle 16 03 55" src="https://user-images.githubusercontent.com/50627877/126337833-feff369f-5e5f-420b-84b7-f0b8177fc3d5.png">
 # Student Alcohol Consumption
  (dataset from Kaggle)
 
