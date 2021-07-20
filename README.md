@@ -16,4 +16,4 @@ The notebook is organized as follows:
 - performance on the test set
 - conclusions
 
-*Note*: github performs a static render of the notebooks so it doesn't include the embedded HTML/JavaScript that makes up a plotly graph.
+***Note***: github performs a static render of the notebooks so it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. To view the notebook with the content rendered using nbviewer: https://nbviewer.jupyter.org/github/gae7/alcohol_consumption/blob/main/student_alcohol_consumption.ipynb
